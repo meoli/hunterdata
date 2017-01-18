@@ -1,0 +1,11 @@
+C:\Users\My\AppData\Local\Temporary Projects\hunterdata\bin\Debug\hunterdata.exe.config
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\bin\Debug\hunterdata.exe.config
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\bin\Debug\hunterdata.exe
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\bin\Debug\hunterdata.pdb
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\bin\Debug\hunterdata.xml
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\obj\Debug\hunterdata.Form1.resources
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\obj\Debug\hunterdata.Resources.resources
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\obj\Debug\hunterdata.vbproj.GenerateResource.Cache
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\obj\Debug\hunterdata.exe
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\obj\Debug\hunterdata.xml
+D:\2nd Fartgramming\Hunter Database\hunterdata\hunterdata\hunterdata\obj\Debug\hunterdata.pdb
