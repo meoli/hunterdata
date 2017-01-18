@@ -31,7 +31,7 @@ Partial Class Form1
         Me.rateJob = New System.Windows.Forms.TextBox()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.rateDrop = New System.Windows.Forms.TextBox()
-        Me.Button1 = New System.Windows.Forms.Button()
+        Me.btnSet = New System.Windows.Forms.Button()
         Me.btnSearch = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
         Me.SuspendLayout()
@@ -100,16 +100,16 @@ Partial Class Form1
         Me.rateDrop.Size = New System.Drawing.Size(171, 22)
         Me.rateDrop.TabIndex = 6
         '
-        'Button1
+        'btnSet
         '
-        Me.Button1.BackColor = System.Drawing.SystemColors.Desktop
-        Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Location = New System.Drawing.Point(16, 140)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 8
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = False
+        Me.btnSet.BackColor = System.Drawing.SystemColors.Desktop
+        Me.btnSet.ForeColor = System.Drawing.Color.White
+        Me.btnSet.Location = New System.Drawing.Point(16, 140)
+        Me.btnSet.Name = "btnSet"
+        Me.btnSet.Size = New System.Drawing.Size(75, 23)
+        Me.btnSet.TabIndex = 8
+        Me.btnSet.Text = "Set"
+        Me.btnSet.UseVisualStyleBackColor = False
         '
         'btnSearch
         '
@@ -141,7 +141,7 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(279, 176)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.btnSearch)
-        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.btnSet)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.rateDrop)
         Me.Controls.Add(Me.Label3)
@@ -166,7 +166,7 @@ Partial Class Form1
     Friend WithEvents rateJob As System.Windows.Forms.TextBox
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents rateDrop As System.Windows.Forms.TextBox
-    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents btnSet As System.Windows.Forms.Button
     Friend WithEvents btnSearch As System.Windows.Forms.Button
     Friend WithEvents btnClear As System.Windows.Forms.Button
 
