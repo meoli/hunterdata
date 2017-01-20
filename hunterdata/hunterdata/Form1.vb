@@ -13,6 +13,8 @@
         rateExp.Text = "x" + String.Concat(exp)
         rateJob.Text = "x" + String.Concat(job)
         rateDrop.Text = "x" + String.Concat(drop)
+        Form2.Hide()
+
 
     End Sub
 
@@ -41,6 +43,11 @@
         exp = 1
         job = 1
         drop = 1
+
+    End Sub
+
+    Private Sub btnSearch_Click(sender As Object, e As EventArgs) Handles btnSearch.Click
+        Form2.Show()
 
     End Sub
 End Class
